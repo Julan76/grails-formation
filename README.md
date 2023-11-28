@@ -1,26 +1,26 @@
 # grails-formation
 
-                                   Plan
-# I- Groovy
-### Qu’est ce que Groovy ?
-### Installer Groovy
-### Quelques exemples pratiques (variables, boucles, listes)
-### POO : Programmation orientée objet ( première classe en Groovy, opérateurs pour manipuler des objets )
-### Héritage et polymorphisme (Explication et exemples)
-### Exercices
+                               
+## I- Groovy
+#### 1- Qu’est ce que Groovy ?
+#### 2- Installer Groovy
+#### 3- Quelques exemples pratiques(variables, boucles, listes)
+#### 4- POO : Programmation orientée objet ( première classe en Groovy, opérateurs pour manipuler des objets )
+#### 5- Héritage et polymorphisme (Explication et exemples)
+#### 6- Exercices
 
 
 # II- Grails
-### Historique et définition de Grails
-### Architecture
-### Installer Grails
-### Premier projet Grails (analyse de la structure)
-### Utilisation des commandes grails pour créer un projet rapidement
-### Manipulation avec une BDD postgres
-### Services , Contrôleurs, Vues, Model
-### Spring security
-### Déploiement
-### Création d’API Restful avec Grails
-### Conception développement et présentation d’une application complète
+#### 1- Historique et définition de Grails
+#### 2- Architecture
+#### 3- Installer Grails
+#### 4- Premier projet Grails (analyse de la structure)
+#### 5- Utilisation des commandes grails pour créer un projet rapidement
+#### 6- Manipulation avec une BDD postgres
+#### 7- Services , Contrôleurs, Vues, Model
+#### 8- Spring security
+#### 9- Déploiement
+#### 10- Création d’API Restful avec Grails
+#### 11- Conception développement et présentation d’une application complète
 
 
