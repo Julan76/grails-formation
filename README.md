@@ -19,7 +19,7 @@
 #### 6- Manipulation avec une BDD postgres
 #### 7- Services , Contrôleurs, Vues, Model
 #### 8- Spring security
-#### 9- Déploiement
+#### 9- Déploiement d'un WAR et d'un JAR
 #### 10- Création d’API Restful avec Grails
 #### 11- Conception développement et présentation d’une application complète
 
